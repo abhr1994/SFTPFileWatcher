@@ -1,0 +1,5 @@
+watchdog
+azure-storage-queue
+boto3
+localstack
+awscli-local

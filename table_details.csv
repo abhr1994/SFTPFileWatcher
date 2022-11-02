@@ -1,0 +1,3 @@
+table_name,file_path,regex_pattern
+TCTN800_CPE_ORDER,/private/tmp/cfs/app/etl_p81/edw_apps_p81/edwntk/files/srcfiles/daily/sfload,DWPC.DW430A9C.C.TCTN800.NDMFILE.SFK.*.DAT
+TTTU002_OPTIONAL_CALLING_PLAN,/private/tmp/cfs/app/etl_p26/ecdw_apps_p26/edwusg/files/srcfiles/daily/sfload,DWPC.DW835.C.TTTU002.NDMFILE.SFK.*.DAT
